@@ -1,4 +1,4 @@
 Changing the file
-Adding an extra line
+Modified from branch
 Added this line from a branch
 
